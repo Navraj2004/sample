@@ -16,7 +16,7 @@ training_data = [
     ['rainy','cold','high','strong','no'],
     ['sunny','warm','high','strong','yes']
 ]
-
+print("h")
 h = find_s(training_data)
 print(h)
  
